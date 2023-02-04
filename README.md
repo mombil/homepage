@@ -1,10 +1,10 @@
 # Paweł Brejnak
 
-##Demo
+## Demo
 
 My site: https://mombil.github.io/homepage/
 
-##Description
+## Description
 
 This is my first Website on Git Hub. 
 Which convection I use:
