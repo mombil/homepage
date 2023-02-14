@@ -4,9 +4,10 @@
 
 My site: https://mombil.github.io/homepage/
 
+![Demo photo](images/demo.png)
 ## Description
 
-This is my first Website on Git Hub.
+My Home Page contains some information about me. I made this site during youcode frontend developer course.
 
 ## Technologies
 
