@@ -1,0 +1,16 @@
+.article__header {
+	text-align: center;
+	margin: 30px;
+}
+
+.article__image {
+	max-width: 300px;
+	margin: auto;
+	display: block;
+	border-radius: 10px;
+}
+
+.article__paragraph {
+	font-size: 18px;
+	margin: 10px;
+}

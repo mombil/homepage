@@ -1,0 +1,8 @@
+.button {
+	background-color: hsl(180, 100%, 50%);
+	border: none;
+	color: hsl(25, 75%, 47%);
+	text-decoration: none;
+	cursor: pointer;
+	border-radius: 10px;
+}

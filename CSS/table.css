@@ -1,0 +1,37 @@
+.table__image {
+	max-width: 140px;
+}
+
+.table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+.table__cell {
+	border: solid 2px;
+	text-align: center;
+	font-size: 18px;
+}
+
+.table__cell--header {
+	background-color: rgb(171, 143, 197);
+	font-size: 22px;
+}
+
+.table__row:nth-child(even) {
+	background-color: #ddd;
+}
+
+.table__row:nth-child(odd) {
+	background-color: #eee;
+}
+
+.table__row:hover {
+	background-color: #bbb;
+}
+
+.table__caption {
+	font-size: 18.72px;
+	font-weight: 700;
+	margin: 30px;
+}
